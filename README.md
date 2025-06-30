@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRRus3575&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRRus3575&layout=compact&langs_count=6&theme=tokyonight&exclude_repo=some-old-python-repo" />
+  <img src="https://github-contribution-grid.vercel.app/RRRus3575" />
 </p>
 
 ---
