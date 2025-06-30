@@ -34,7 +34,6 @@
 ---
 
 ### 📈 GitHub Stats:
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/RRRus3575/RRRus3575/output/github-contribution-grid-snake.svg" />
 </p>
@@ -46,11 +45,13 @@
 ---
 
 ### ✨ Random truth of the day:
+
 > *"Writing code is like explaining how the world works to a kettle, but the kettle compiles it — out of spite."*
 
 ---
 
 ### 📫 Get in touch:
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-hrudistov-860670238/)
 - 🧠 [Telegram](https://t.me/RRRus3575)
 
