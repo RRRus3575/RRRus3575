@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRRus3575&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/0099ff/RRRus3575" alt="GitHub chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RRRus3575&bg_color=000000&color=9F7AEA&line=9F7AEA&point=403d3d&area=true&hide_border=true" />
 </p>
 
 ---
