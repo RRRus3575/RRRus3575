@@ -35,6 +35,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRRus3575&layout=compact&theme=tokyonight" />
+  </br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RRRus3575&bg_color=000000&color=9b59b6&line=9b59b6&point=ffffff&area=true&hide_border=true" />
 </p>
 
 
