@@ -1,0 +1,24 @@
+name: GitHub Activity Chart
+
+on:  
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: RRRus3575
+          output: ./github-contribution-grid-snake.svg
+          theme: dark
+          color: '9b59b6'
+          line: '9b59b6'
+          background: '000000'
+      - uses: actions/upload-artifact@v3
+        with:
+          name: contribution-graph
+          path: github-contribution-grid-snake.svg
