@@ -36,9 +36,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRRus3575&layout=compact&theme=tokyonight" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-contribution-grid.vercel.app/api?username=RRRus3575&color=9b59b6&bg=000000&theme=dark" />
 </p>
+
 
 
 
