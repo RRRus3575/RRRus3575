@@ -4,6 +4,7 @@
 ---
 
 ### 🤓 A bit about me:
+
 - 🧠 On my journey to becoming a thoughtful and skilled software engineer
 - 📚 Software Engineering student @ NeoVersity
 - 💼 Currently working in the financial industry — balancing code and commissions
@@ -22,6 +23,7 @@
 ---
 
 ### 🔧 Skills & Tech Stack:
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
