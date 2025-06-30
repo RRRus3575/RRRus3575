@@ -36,9 +36,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRRus3575&layout=compact&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-contribution-grid.vercel.app/RRRus3575" />
-</p>
+![Snake animation](https://github.com/RRRus3575/RRRus3575/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
