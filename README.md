@@ -34,13 +34,10 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RRRus3575&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRRus3575&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RRRus3575&bg_color=000000&color=9F7AEA&line=9F7AEA&point=403d3d&area=true&hide_border=true" />
+  <img src="https://github-contributions.vercel.app/api?username=RRRus3575&block=15&gap=3&color=9F7AEA&empty_color=000000" />
 </p>
 
 ---
