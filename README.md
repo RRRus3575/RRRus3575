@@ -6,7 +6,7 @@
 ### 🤓 A bit about me:
 
 - 🧠 On my journey to becoming a thoughtful and skilled software engineer
-- 📚 Software Engineering student @ NeoVersity
+- 📚 Software Engineering student Woolf
 - 💼 Currently working in the financial industry — balancing code and commissions
 - 🧩 I collect product ideas and build them between micro-burnouts and flashes of inspiration
 
