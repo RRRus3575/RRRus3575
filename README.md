@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Ruslan 👋</h1>
-<p align="center">Software engineer in training ⚙️ | Focused on building scalable web applications and writing clean, maintainable code</p>
+<p align="center">Software engineer ⚙️ | Building scalable web apps and focusing on clean, practical code</p>
 
 ---
 
 ### 🤓 A bit about me:
 
-- 🧠 On my journey to becoming a thoughtful and skilled software engineer
-- 📚 Software Engineering student [\Woolf/](https://woolf.university/)
-- 💼 Currently working in the financial industry — balancing code and commissions
-- 🧩 I collect product ideas and build them between micro-burnouts and flashes of inspiration
+- 🧠 Working towards becoming a strong and thoughtful software engineer
+- 🎓 Software Engineering graduate from [Woolf University]([https://woolf.university/](https://woolf.university/id/3702299600?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc1ZlcmlmaWVkIjp0cnVlLCJvcmciOnsiaWQiOiIyODU2YWNkMy1jMWUxLTQyMWMtOTg5ZS1jN2RkYmQzMmIyZjIiLCJncm91cHMiOltdfSwia2luZCI6Im9hdXRoIiwic2NvcGUiOiIqIiwiaXNzIjoidXJuOldvb2xmVW5pdmVyc2l0eTpzZXJ2ZXIvc2VydmljZS9hY2Nlc3MiLCJpZCI6ImRjYWM5YmQwLTFmZmMtNDIwNi05MzlhLTliMTE0NjFlOWE2MCIsImlhdCI6MTc0OTQ5NTQyNn0.XhmFmw_THHFJfKEzbRWgvHo61Eu-Z_aPLrLA7_lnxDQ))
+- 💼 Working in the financial industry — thinking in both code and numbers
+- 🧩 Constantly exploring product ideas and building whenever I get the chance
 
 ---
 
