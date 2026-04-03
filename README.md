@@ -6,7 +6,7 @@
 ### 🤓 A bit about me:
 
 - 🧠 Working towards becoming a strong and thoughtful software engineer
-- 🎓 Software Engineering graduate from [Woolf University]([https://woolf.university/](https://woolf.university/id/3702299600?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc1ZlcmlmaWVkIjp0cnVlLCJvcmciOnsiaWQiOiIyODU2YWNkMy1jMWUxLTQyMWMtOTg5ZS1jN2RkYmQzMmIyZjIiLCJncm91cHMiOltdfSwia2luZCI6Im9hdXRoIiwic2NvcGUiOiIqIiwiaXNzIjoidXJuOldvb2xmVW5pdmVyc2l0eTpzZXJ2ZXIvc2VydmljZS9hY2Nlc3MiLCJpZCI6ImRjYWM5YmQwLTFmZmMtNDIwNi05MzlhLTliMTE0NjFlOWE2MCIsImlhdCI6MTc0OTQ5NTQyNn0.XhmFmw_THHFJfKEzbRWgvHo61Eu-Z_aPLrLA7_lnxDQ))
+- 🎓 Software Engineering graduate from [Woolf University]([https://woolf.university/](https://woolf.university/id/3702299600?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc1ZlcmlmaWVkIjp0cnVlLCJvcmciOnsiaWQiOiIyODU2YWNkMy1jMWUxLTQyMWMtOTg5ZS1jN2RkYmQzMmIyZjIiLCJncm91cHMiOltdfSwia2luZCI6Im9hdXRoIiwic2NvcGUiOiIqIiwiaXNzIjoidXJuOldvb2xmVW5pdmVyc2l0eTpzZXJ2ZXIvc2VydmljZS9hY2Nlc3MiLCJpZCI6ImRjYWM5YmQwLTFmZmMtNDIwNi05MzlhLTliMTE0NjFlOWE2MCIsImlhdCI6MTc0OTQ5NTQyNn0.XhmFmw_THHFJfKEzbRWgvHo61Eu-Z_aPLrLA7_lnxDQ)
 - 💼 Working in the financial industry — thinking in both code and numbers
 - 🧩 Constantly exploring product ideas and building whenever I get the chance
 
